@@ -1,0 +1,6 @@
+@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+    }
+    /* Add any additional print-specific styles here */
+}
